@@ -1,0 +1,39 @@
+{
+  "name": "wm-annotation-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "typings": "dist/index.d.ts",
+  "repository": "",
+  "author":"coder-zhou",
+  "license": "",
+  "scripts": {
+    "start:dev": "webpack-dev-server --config webpack.dev.js",
+    "start:test": "webpack-dev-server --config webpack.test.js",
+    "test": "bash -c ./src/Test/test.sh",
+    "build": "webpack -p --config webpack.prod.js",
+  },
+  "dependencies": {
+    "events": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.0",
+    "@types/events": "^3.0.0",
+    "@types/mocha": "^5.2.7",
+    "@types/puppeteer": "^1.19.1",
+    "chai": "^4.2.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "mocha": "^6.2.0",
+    "puppeteer": "^1.19.0",
+    "ts-loader": "^6.0.4",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.7.4",
+    "uglifyjs-webpack-plugin": "^2.1.3",
+    "webpack": "^4.36.1",
+    "webpack-bundle-analyzer": "^3.3.2",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  }
+}

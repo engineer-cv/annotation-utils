@@ -1,0 +1,46 @@
+{
+  "content": "The aim of the presented study was to characterize the anticonvulsant effects of levetiracetam in combination with various antiepileptic drugs (carbamazepine, phenytoin, topiramate and vigabatrin) in the mouse 6Hz psychomotor seizure model. Limbic (psychomotor) seizure activity was evoked in albino Swiss mice by a current (32mA, 6Hz, 3s stimulus duration) delivered via ocular electrodes; type II isobolographic analysis was used to characterize the consequent anticonvulsant interactions between the various drug combinations for fixed-ratios of 1:1, 1:2, 1:5 and 1:10. With type II isobolographic analysis, the combinations of levetiracetam with carbamazepine and phenytoin for the fixed-ratios of 1:5 and 1:10 were supra-additive (synergistic; P<0.01) in terms of seizure suppression, while the combinations for the fixed-ratios of 1:1 and 1:2 were additive. Levetiracetam combined with topiramate and vigabatrin for the fixed-ratio of 1:10 exerted supra-additive interaction (P<0.05), and simultaneously, the two-drug combinations for the fixed-ratios of 1:1, 1:2 and 1:5 produced additive interaction in the mouse 6Hz psychomotor seizure model. The combinations of levetiracetam with carbamazepine and phenytoin for the fixed-ratios of 1:5 and 1:10, as well as the combinations of levetiracetam with topiramate and vigabatrin for the fixed-ratio of 1:10 appear to be particularly favorable combinations exerting supra-additive interaction in the mouse 6Hz psychomotor seizure model. Finally, it may be concluded that because of the synergistic interactions between levetiracetam and carbamazepine, phenytoin, topiramate and vigabatrin, the combinations might be useful in clinical practice.",
+  "labelCategories": [
+    {
+      "id": 0,
+      "text": "名词",
+      "color": "#eac0a2",
+      "borderColor": "#a38671"
+    },
+    {
+      "id": 8,
+      "text": "动词",
+      "color": "#619dff",
+      "borderColor": "#436db2"
+    },
+    {
+      "id": 2,
+      "text": "超长标签超长标签超长标签",
+      "color": "#9d61ff",
+      "borderColor": "#6d43b2"
+    },
+    {
+      "id": 99,
+      "text": "副词",
+      "color": "#ff9d61",
+      "borderColor": "#b26d43"
+    }
+  ],
+  "labels": [
+  ],
+  "connectionCategories": [
+    {
+      "id": 0,
+      "text": "修饰"
+    },
+    {
+      "id": 1,
+      "text": "限定"
+    },
+    {
+      "id": 2,
+      "text": "是...的动作"
+    }
+  ],
+  "connections": []
+}

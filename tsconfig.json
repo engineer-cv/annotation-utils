@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es5",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "downlevelIteration": true,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "dist",
+    "resolveJsonModule": true
+  },
+  "exclude": [
+    "src/Demo"
+  ]
+}
